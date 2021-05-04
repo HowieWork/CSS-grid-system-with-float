@@ -2,6 +2,8 @@
 
 Old school, but still useful.
 
+![Project Thumbnail](thumbnail.jpg)
+
 ## Keywords
 
 grid, float, div, row, col, clearfix, css attribute selector
